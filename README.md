@@ -22,4 +22,4 @@ Rank 1 - Pedro <br>
 Rank 2 - Igor <br>
 Rank 3 - Marcos <br>
  <br>
-### Ganhador: Marcos
+### Ganhador: Pedro
